@@ -9,6 +9,6 @@
 | [FLORIS](https://github.com/NatLabRockies/floris) | NRL| Python | Wind farm wake and control modelling |
 
 ## Wind Turbine Aeroelastic Simulation
-| Toolkit | Description | 
-|---|---|
+| Toolkit | Repo Owner | Language | Description|
+|---|---|---|---|
 | [OpenFAST](https://github.com/OpenFAST/openfast) | NRL| FORTRAN | physics-based engineering tool for simulating the coupled dynamic response of wind turbines |
