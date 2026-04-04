@@ -4,7 +4,6 @@
 | Toolkit | Repo Owner | Language | Description|
 |---|---|---|---|
 | [PyWake](https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake) | DTU | Python | an AEP calculator for wind farms implemented in Python including a collection of wake models |
-| [PyFuga](https://gitlab.windenergy.dtu.dk/TOPFARM/PyFuga) | DTU | Python | a linearised RANS / CFD model for wind farm flows | 
 | [FOXES](https://github.com/FraunhoferIWES/foxes) | Fraunhofer IWES | Python |  Wind farm optimization, e.g. layout optimization or wake steering; Wind farm post-construction analysis; Wake model studies, comparison and validation; Wind farm simulations invoking complex model chains |
 | [FLORIS](https://github.com/NatLabRockies/floris) | NRL| Python | Wind farm wake and control modelling |
 
@@ -13,7 +12,8 @@
 |---|---|---|---|
 | [OpenFAST](https://github.com/OpenFAST/openfast) | NRL| FORTRAN | physics-based engineering tool for simulating the coupled dynamic response of wind turbines |
 
-## LES
+## CFD/RANS/LES
 | Toolkit | Repo Owner | Language | Description|
 |---|---|---|---|
 | [PALM](https://palm.muk.uni-hannover.de/trac)|Leibniz Universität Hannover| FORTRAN | meteorological modeling system for atmospheric and oceanic boundary layer flows
+| [PyFuga](https://gitlab.windenergy.dtu.dk/TOPFARM/PyFuga) | DTU | Python | a linearised RANS / CFD model for wind farm flows | 
