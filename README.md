@@ -1,4 +1,4 @@
-# Open Wind Energy Tools (and Data) Sources
+# Open Wind Energy Tools and Data Sources
 
 ## Wind Farm and Wake Modelling
 | Toolkit | Repo Owner | Language | Description|
