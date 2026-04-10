@@ -21,4 +21,7 @@
 ## Reanalysis Data Source
 | Reanalysis Data | Dataset Period | Source |
 |---|---|---|
-| [BARRA2](https://opus.nci.org.au/spaces/NDP/pages/264241166/BOM+BARRA2+ob53) | 1979-2024 | Bureau of Meteorology’s atmospheric high-resolution regional reanalysis for Australia|
+| [BARRA2](https://opus.nci.org.au/spaces/NDP/pages/264241166/BOM+BARRA2+ob53) | 1979-2024 | Bureau of Meteorology’s atmospheric high-resolution regional reanalysis for Australia |
+| ERA6 (upcoming) | - | European Centre for Medium-Range Weather Forecasts |
+| ERA5 | - | European Centre for Medium-Range Weather Forecasts |
+| MERRA2 | - | Goddard Space Flight Center Distributed Active Archive Center (GSFC DAAC) |
