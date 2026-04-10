@@ -17,3 +17,8 @@
 |---|---|---|---|
 | [PALM](https://palm.muk.uni-hannover.de/trac)|Leibniz Universität Hannover| FORTRAN | meteorological modeling system for atmospheric and oceanic boundary layer flows
 | [PyFuga](https://gitlab.windenergy.dtu.dk/TOPFARM/PyFuga) | DTU | Python | a linearised RANS / CFD model for wind farm flows | 
+
+## Reanalysis Data Source
+| Reanalysis Data | Dataset Period | Source |
+|---|---|---|
+| [BARRA2](https://opus.nci.org.au/spaces/NDP/pages/264241166/BOM+BARRA2+ob53) | 1979-2024 | Bureau of Meteorology’s atmospheric high-resolution regional reanalysis for Australia|
