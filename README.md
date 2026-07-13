@@ -33,6 +33,7 @@ Lists of open source softwares and publicly available datasets in wind energy.
 | Toolkit | Repo Owner | Language | Description|
 |---|---|---|---|
 | [WISDEM](https://github.com/NLRWindSystems/WISDEM) | NLR | Python | Wind plant cost of energy (COE) assessment and optimization | 
+| [ROSCO](https://github.com/NatLabRockies/ROSCO) | NLR | Python, Fortran | Reference wind turbine controller |
 |[IEA22 Blade Viewer](https://github.com/BasemRajjoub/iea22mw-blade-viewer) | Basem Rajjoub | html | Interactive blade components viewer |
 
 ## Reference Wind Turbines & Wind Farms
