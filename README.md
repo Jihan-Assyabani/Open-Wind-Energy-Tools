@@ -45,4 +45,5 @@ Lists of open source softwares and publicly available datasets in wind energy.
 | [Hybrid-Lambda](https://zenodo.org/records/10406460) | 15.0 MW | 326 m | Offshore (Monopile) | D. Ribnitzky/ForWind | IEA 15MW Upscale with 2 TSR | 
 | [IEA-10-198-RWT](https://github.com/IEAWindSystems/IEA-10.0-198-RWT) | 10.0 MW | 199 m | Offshore (Monopile) | IEA | | 
 | [NREL-5MW](https://github.com/ricklupton/OpenFAST-NREL-5MW) | 5.0 MW | 126 m | Offshore (Monopile) | NREL | [Report](https://docs.nlr.gov/docs/fy09osti/38060.pdf) | 
+| [IEA-3.4-130-RWT](https://github.com/IEAWindSystems/IEA-3.4-130-RWT) | 3.4 MW | 130 m | Onshore | IEA Wind | |
 
