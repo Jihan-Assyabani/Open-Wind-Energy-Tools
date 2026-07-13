@@ -1,11 +1,14 @@
 # Open Wind Energy Tools and Data Sources
 
+Lists of open source softwares and publicly available datasets in wind energy. 
+
 ## Wind Farm and Wake Modelling
 | Toolkit | Repo Owner | Language | Description|
 |---|---|---|---|
 | [PyWake](https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake) | DTU | Python | an AEP calculator for wind farms implemented in Python including a collection of wake models |
 | [FOXES](https://github.com/FraunhoferIWES/foxes) | Fraunhofer IWES | Python |  Wind farm optimization, e.g. layout optimization or wake steering; Wind farm post-construction analysis; Wake model studies, comparison and validation; Wind farm simulations invoking complex model chains |
 | [FLORIS](https://github.com/NatLabRockies/floris) | NRL| Python | Wind farm wake and control modelling |
+| [Velantis Wind](https://plugins.qgis.org/plugins/VelantisWind/#plugin-details) | Velantis Wind | Python (QGIS) | QGIS plugin for wind farm planning |
 
 ## Wind Turbine Aeroelastic Simulation
 | Toolkit | Repo Owner | Language | Description|
