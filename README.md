@@ -38,10 +38,11 @@ Lists of open source softwares and publicly available datasets in wind energy.
 ## Reference Wind Turbines & Wind Farms
 | Turbine | Capacity | Rotor Diameter | Type | Author | Description |
 |---|---|---|---|---|---|
+| [IEA-740-10-MW-ROWPs](https://github.com/IEAWindSystems/IEA-Wind-740-10-ROWP) | 740.MW (Wind Farm) | - | Offshore | IEA Wind | 74 x IEA-10MW WTs. [Report](https://www.osti.gov/servlets/purl/2333634/).|
 | [IFE-UPSCALE-25MW-RWT](https://github.com/IFE-FOU/IFE-UPSCALE-25MW-RWT/tree/main) | 25.0 MW | 308 m | Offshore (Floating) | IFE | Upscale of IEA 15 MW RWT | 
 | [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) | 22.0 MW | 280 m | Offshore (Monopile) | IEA Wind | |
 | [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) | 15.0 MW | 240 m | Offshore (Monopile) | IEA Wind | |
 | [Hybrid-Lambda](https://zenodo.org/records/10406460) | 15.0 MW | 326 m | Offshore (Monopile) | D. Ribnitzky/ForWind | IEA 15MW Upscale with 2 TSR | 
 | [IEA-10-198-RWT](https://github.com/IEAWindSystems/IEA-10.0-198-RWT) | 10.0 MW | 199 m | Offshore (Monopile) | IEA | | 
-| [IEA-740-10-MW-ROWPs](https://github.com/IEAWindSystems/IEA-Wind-740-10-ROWP) | 740.MW (Wind Farm) | - | Offshore | IEA Wind | 74 x IEA-10MW WTs. [Report](https://www.osti.gov/servlets/purl/2333634/).|
+| [NREL-5MW](https://github.com/ricklupton/OpenFAST-NREL-5MW) | 5.0 MW | 126 m | Offshore (Monopile) | NREL | [Report](https://docs.nlr.gov/docs/fy09osti/38060.pdf) | 
 
