@@ -35,7 +35,8 @@ Lists of open source softwares and publicly available datasets in wind energy.
 |[IEA22 Blade Viewer](https://github.com/BasemRajjoub/iea22mw-blade-viewer) | Basem Rajjoub | html | Interactive blade components viewer |
 
 ## Reference Turbines
-| Turbine | Capacity | Type | Author |
-|---|---|---|---|
-| [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) | 22.0 MW | Offshore (Monopile) | IEA Wind |
-| [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) | 15.0 MW | Offshore (Monopile) | IEA Wind |
+| Turbine | Capacity | Rotor Diameter | Type | Author | Description |
+|---|---|---|---|---|---|
+| [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) | 22.0 MW | 280 m | Offshore (Monopile) | IEA Wind | |
+| [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) | 15.0 MW | 240 m | Offshore (Monopile) | IEA Wind | |
+| [Hybrid-Lambda](https://zenodo.org/records/10406460) | 15.0 MW | 326 m | Offshore (Monopile) | D. Ribnitzky/ForWind | IEA 15MW Upscale with 2 TSR | 
