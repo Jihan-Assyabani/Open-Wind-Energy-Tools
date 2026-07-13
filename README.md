@@ -25,3 +25,8 @@
 | ERA6 (upcoming) | - | Copernicus Climate Change Service (C3S) Climate Data Store (CDS) |
 | [ERA5](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) | 1940 - onwards | Copernicus Climate Change Service (C3S) Climate Data Store (CDS) |
 | [MERRA2](https://disc.gsfc.nasa.gov/datasets?project=MERRA-2) | 1980 - onwards | Goddard Space Flight Center Distributed Active Archive Center (GSFC DAAC) |
+
+## Visualization & Other Tools
+| Toolkit | Repo Owner | Language | Description|
+|---|---|---|---|
+|[IEA22 Blade Viewer](https://github.com/BasemRajjoub/iea22mw-blade-viewer) | Basem Rajjoub | html | Interactive blade components viewer |
