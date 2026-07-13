@@ -35,9 +35,12 @@ Lists of open source softwares and publicly available datasets in wind energy.
 | [WISDEM](https://github.com/NLRWindSystems/WISDEM) | NLR | Python | Wind plant cost of energy (COE) assessment and optimization | 
 |[IEA22 Blade Viewer](https://github.com/BasemRajjoub/iea22mw-blade-viewer) | Basem Rajjoub | html | Interactive blade components viewer |
 
-## Reference Turbines
+## Reference Wind Turbines & Wind Farms
 | Turbine | Capacity | Rotor Diameter | Type | Author | Description |
 |---|---|---|---|---|---|
 | [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) | 22.0 MW | 280 m | Offshore (Monopile) | IEA Wind | |
 | [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) | 15.0 MW | 240 m | Offshore (Monopile) | IEA Wind | |
 | [Hybrid-Lambda](https://zenodo.org/records/10406460) | 15.0 MW | 326 m | Offshore (Monopile) | D. Ribnitzky/ForWind | IEA 15MW Upscale with 2 TSR | 
+| [IEA-10-198-RWT](https://github.com/IEAWindSystems/IEA-10.0-198-RWT) | 10.0 MW | 199 m | Offshore (Monopile) | IEA | | 
+| [IEA-740-10-MW-ROWPs](https://github.com/IEAWindSystems/IEA-Wind-740-10-ROWP) | 740.MW (Wind Farm) | - | Offshore | IEA Wind | 74 x IEA-10MW WTs. [Report](https://www.osti.gov/servlets/purl/2333634/).|
+
