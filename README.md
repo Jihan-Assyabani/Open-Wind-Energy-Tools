@@ -48,3 +48,8 @@ Lists of open source softwares and publicly available datasets in wind energy.
 | [NREL-5MW](https://github.com/ricklupton/OpenFAST-NREL-5MW) | 5.0 MW | 126 m | Offshore (Monopile) | NREL | [Report](https://docs.nlr.gov/docs/fy09osti/38060.pdf) | 
 | [IEA-3.4-130-RWT](https://github.com/IEAWindSystems/IEA-3.4-130-RWT) | 3.4 MW | 130 m | Onshore | IEA Wind | |
 
+## Common Airfoils for Wind Turbines
+| Family | Origin | Technical Report | Coordinates |
+|---|---|---|---|
+| FFA-series | The Aeronautical Research
+Institute of Sweden | [Tech. Report](https://skippy.org.uk/wp-content/uploads/2018/11/FFA-TN-1990-15-v.1-2-c.1.pdf) | [internal](https://github.com/Jihan-Assyabani/Open-Wind-Energy-Tools/tree/main/airfoils/FFA%20series)|
