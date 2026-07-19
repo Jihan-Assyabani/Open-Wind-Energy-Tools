@@ -39,6 +39,7 @@ Lists of open source softwares and publicly available datasets in wind energy.
 ## Reference Wind Turbines & Wind Farms
 | Turbine | Capacity | Rotor Diameter | Type | Author | Description |
 |---|---|---|---|---|---|
+| [Commercial Turbines](https://zenodo.org/records/17311571) | Varies | Varies | Offshore | Fraunhofer IWES | Open European offshore wind turbine database |
 | [IEA-740-10-MW-ROWPs](https://github.com/IEAWindSystems/IEA-Wind-740-10-ROWP) | 740.MW (Wind Farm) | - | Offshore | IEA Wind | 74 x IEA-10MW WTs. [Report](https://www.osti.gov/servlets/purl/2333634/).|
 | [IFE-UPSCALE-25MW-RWT](https://github.com/IFE-FOU/IFE-UPSCALE-25MW-RWT/tree/main) | 25.0 MW | 308 m | Offshore (Floating) | IFE | Upscale of IEA 15 MW RWT | 
 | [IEA-22-280-RWT](https://github.com/IEAWindSystems/IEA-22-280-RWT) | 22.0 MW | 280 m | Offshore (Monopile) | IEA Wind | |
